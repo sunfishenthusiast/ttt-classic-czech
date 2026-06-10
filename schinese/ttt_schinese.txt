@@ -926,7 +926,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "死亡可视化"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "展示台被毁"
     "TTT_STATS_RADIOS_PLACED"                     "无线电放置"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "无线电声音发送"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "无线电声音播放"
     "TTT_STATS_RADIOS_DESTROYED"                  "收音机被毁"
     "TTT_STATS_BINOCULAR_SCANS"                   "双目扫描"
     "TTT_STATS_DISGUISE_TIME"                     "伪装时间（分：秒）"

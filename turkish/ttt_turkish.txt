@@ -927,7 +927,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "Görselleştirilen Ölümler"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "Görüntüleyiciler Yok Edildi"
     "TTT_STATS_RADIOS_PLACED"                     "Yerleştirilen Radyolar"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Gönderilen Radyo Sesleri"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Oynatılan Radyo Sesleri"
     "TTT_STATS_RADIOS_DESTROYED"                  "Telsizler Tahrip Edildi"
     "TTT_STATS_BINOCULAR_SCANS"                   "Binoküler Taramalar"
     "TTT_STATS_DISGUISE_TIME"                     "Kılık Değiştirme Süresi (dd:ss)"

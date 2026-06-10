@@ -927,7 +927,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "Vizualizovaná úmrtí"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "Zničené vizualizéry"
     "TTT_STATS_RADIOS_PLACED"                     "Umístěná rádia"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Odeslané zvuky rádia"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Přehrané zvuky rádia"
     "TTT_STATS_RADIOS_DESTROYED"                  "Zničená rádia"
     "TTT_STATS_BINOCULAR_SCANS"                   "Skenování dalekohledem"
     "TTT_STATS_DISGUISE_TIME"                     "Doba maskování (mm:ss)"

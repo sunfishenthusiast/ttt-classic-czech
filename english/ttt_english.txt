@@ -944,7 +944,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "Deaths Visualized"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "Visualizers Destroyed"
     "TTT_STATS_RADIOS_PLACED"                     "Radios Placed"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Radio Sounds Sent"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Radio Sounds Played"
     "TTT_STATS_RADIOS_DESTROYED"                  "Radios Destroyed"
     "TTT_STATS_BINOCULAR_SCANS"                   "Binocular Scans"
     "TTT_STATS_DISGUISE_TIME"                     "Disguise Time (mm:ss)"

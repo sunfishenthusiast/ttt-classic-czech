@@ -927,7 +927,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "Dödsfall visualiserade"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "Visualiserare förstörda"
     "TTT_STATS_RADIOS_PLACED"                     "Radioapparater placerade"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Radioljud skickat"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Radioljud uppspelade"
     "TTT_STATS_RADIOS_DESTROYED"                  "Radioapparater förstörda"
     "TTT_STATS_BINOCULAR_SCANS"                   "Kikarskanningar"
     "TTT_STATS_DISGUISE_TIME"                     "Förklädnadstid (mm:ss)"

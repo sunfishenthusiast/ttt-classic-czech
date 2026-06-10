@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
   "Language"    "uwuenglish"
   "Tokens"
@@ -926,7 +926,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "Deaths Visuawized"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "Visuawizews Destwoyed"
     "TTT_STATS_RADIOS_PLACED"                     "Wadios Pwaced"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Wadio Sounds Sent"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Wadio Sounds Pwayed"
     "TTT_STATS_RADIOS_DESTROYED"                  "Wadios Destwoyed"
     "TTT_STATS_BINOCULAR_SCANS"                   "Binyocuwaw Scans"
     "TTT_STATS_DISGUISE_TIME"                     "Disguise Time (mm:ss)"

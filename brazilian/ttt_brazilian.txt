@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
     "Language"          "brazilian"
     "Tokens"
@@ -927,7 +927,7 @@
         "TTT_STATS_DEATHS_VISUALIZED"                       "Mortes Visualizadas com o Visualizador"
         "TTT_STATS_VISUALIZERS_DESTROYED"                   "Visualizadores destruídos"
         "TTT_STATS_RADIOS_PLACED"                           "Rádios colocados"
-        "TTT_STATS_RADIO_SOUNDS_SENT"                       "Sons de rádio enviados"
+        "TTT_STATS_RADIO_SOUNDS_SENT"                       "Sons de rádio reproduzidos"
         "TTT_STATS_RADIOS_DESTROYED"                        "Rádios destruídos"
         "TTT_STATS_BINOCULAR_SCANS"                         "Scans com binóculos"
         "TTT_STATS_DISGUISE_TIME"                           "Tempo com disfarce"

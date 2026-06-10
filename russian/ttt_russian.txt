@@ -927,7 +927,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "Смерти визуализированы"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "Визуализаторы уничтожены"
     "TTT_STATS_RADIOS_PLACED"                     "Размещено радио"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Звуки радио отправлены"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Звуки радио воспроизведены"
     "TTT_STATS_RADIOS_DESTROYED"                  "Радиоприемники уничтожены"
     "TTT_STATS_BINOCULAR_SCANS"                   "Бинокулярное сканирование"
     "TTT_STATS_DISGUISE_TIME"                     "Время маскировки (мм:сс)"

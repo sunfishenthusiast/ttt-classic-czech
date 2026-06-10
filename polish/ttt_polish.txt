@@ -927,7 +927,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "Wizualizacja zgonów"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "Wizualizatory zniszczone"
     "TTT_STATS_RADIOS_PLACED"                     "Umieszczone radia"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Wysłano dźwięki radia"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Odtworzono dźwięki radia"
     "TTT_STATS_RADIOS_DESTROYED"                  "Zniszczone radia"
     "TTT_STATS_BINOCULAR_SCANS"                   "Skany lornetkowe"
     "TTT_STATS_DISGUISE_TIME"                     "Czas przebrania (mm:ss)"

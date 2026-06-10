@@ -927,7 +927,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "Todesfälle visualisiert"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "Visualisierer zerstört"
     "TTT_STATS_RADIOS_PLACED"                     "Radios platziert"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Radiotöne gesendet"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "Radiotöne abgespielt"
     "TTT_STATS_RADIOS_DESTROYED"                  "Radios zerstört"
     "TTT_STATS_BINOCULAR_SCANS"                   "Binokulare Scans"
     "TTT_STATS_DISGUISE_TIME"                     "Verkleidungszeit (mm:ss)"

@@ -927,7 +927,7 @@
     "TTT_STATS_DEATHS_VISUALIZED"                 "可視化された死亡者数"
     "TTT_STATS_VISUALIZERS_DESTROYED"             "ビジュアライザーが破壊されました"
     "TTT_STATS_RADIOS_PLACED"                     "配置された無線機"
-    "TTT_STATS_RADIO_SOUNDS_SENT"                 "ラジオ音声が送信されました"
+    "TTT_STATS_RADIO_SOUNDS_SENT"                 "ラジオ音声が再生されました"
     "TTT_STATS_RADIOS_DESTROYED"                  "ラジオは破壊されました"
     "TTT_STATS_BINOCULAR_SCANS"                   "両眼スキャン"
     "TTT_STATS_DISGUISE_TIME"                     "変装時間 (mm:ss)"
