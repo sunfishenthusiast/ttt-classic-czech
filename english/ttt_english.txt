@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Spectators muted"
     "TTT_MUTE_ALL"                                "All muted"
     "TTT_MUTE_OFF"                                "None muted"
+    "TTT_PLAYER_VOLUME"                           "Player Volume"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "CHICKEN-O-METER"
     "TTT_PUNCH_HELP"                              "Move keys or jump: move chicken. Crouch: leave chicken."

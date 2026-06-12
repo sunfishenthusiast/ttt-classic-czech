@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Widzowie wyciszeni"
     "TTT_MUTE_ALL"                                "Wszystko wyciszone"
     "TTT_MUTE_OFF"                                "Żaden nie jest wyciszony"
+    "TTT_PLAYER_VOLUME"                           "Głośność gracza"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "KURCZAK-O-METR"
     "TTT_PUNCH_HELP"                              "Przesuwaj klawisze lub skacz: poruszaj kurczakiem. Crouch: zostaw kurczaka."

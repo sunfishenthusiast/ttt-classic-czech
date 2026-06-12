@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Pozorovatelé ztlumeni"
     "TTT_MUTE_ALL"                                "Všichni ztlumeni"
     "TTT_MUTE_OFF"                                "Nikdo není ztlumen"
+    "TTT_PLAYER_VOLUME"                           "Hlasitost hráče"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "KUŘE-METR"
     "TTT_PUNCH_HELP"                              "Klávesy pohybu nebo skok: pohyb kuřete. Přikrčení: opustit kuře."

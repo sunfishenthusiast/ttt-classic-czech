@@ -412,6 +412,7 @@
         "TTT_MUTE_SPECS"                                    "Espectadores emudecidos"
         "TTT_MUTE_ALL"                                      "Todos emudecidos"
         "TTT_MUTE_OFF"                                      "Ninguém emudecido"
+        "TTT_PLAYER_VOLUME"                                 "Volume do jogador"
         // Spectators and prop possession
         "TTT_PUNCH_TITLE"                                   "FRANGOMETER"
         "TTT_PUNCH_HELP"                                    "Mexa as teclas ou pule: mova a galinha. Agache: deixe a galinha para trás."

@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Spectatows muted"
     "TTT_MUTE_ALL"                                "Aww muted"
     "TTT_MUTE_OFF"                                "Nyonye muted"
+    "TTT_PLAYER_VOLUME"                           "Pwayew Vowume"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "CHICKEN-O-METEW"
     "TTT_PUNCH_HELP"                              "Muv keys ow jump: muv chicken. Cwouch: weave chicken."

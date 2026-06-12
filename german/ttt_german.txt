@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Zuschauer stumm gestellt"
     "TTT_MUTE_ALL"                                "Jeden stumm gestellt"
     "TTT_MUTE_OFF"                                "Niemanden stumm gestellt"
+    "TTT_PLAYER_VOLUME"                           "Spieler-Lautstärke"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "CHICKEN-O-METER"
     "TTT_PUNCH_HELP"                              "Tasten bewegen oder springen: Huhn bewegen. Hocken: Hühnchen verlassen."

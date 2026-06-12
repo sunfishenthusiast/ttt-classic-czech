@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Espectadores enmudecidos"
     "TTT_MUTE_ALL"                                "Cada enmudecido"
     "TTT_MUTE_OFF"                                "Nadie enmudecido"
+    "TTT_PLAYER_VOLUME"                           "Volumen del jugador"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "MEDIDOR DE POLLO"
     "TTT_PUNCH_HELP"                              "Mover teclas o saltar: mover pollo. Agacharse: dejar el pollo."

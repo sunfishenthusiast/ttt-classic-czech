@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "観戦者をミュートした"
     "TTT_MUTE_ALL"                                "全てをミュートした"
     "TTT_MUTE_OFF"                                "ミュートを解除した"
+    "TTT_PLAYER_VOLUME"                           "プレイヤーの音量"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "チキンオーメーター"
     "TTT_PUNCH_HELP"                              "キーを移動するかジャンプする: ニワトリを移動します。しゃがむ：チキンを残してください。"

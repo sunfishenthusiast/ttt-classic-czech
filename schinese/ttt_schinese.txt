@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "将观察者设定静音"
     "TTT_MUTE_ALL"                                "全部静音"
     "TTT_MUTE_OFF"                                "取消静音"
+    "TTT_PLAYER_VOLUME"                           "玩家音量"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "鸡肉量表"
     "TTT_PUNCH_HELP"                              "移动键或跳跃：移动小鸡。克劳奇：把鸡留下。"

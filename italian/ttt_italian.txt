@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Spettatori mutati"
     "TTT_MUTE_ALL"                                "Tutti mutati"
     "TTT_MUTE_OFF"                                "Nessuno mutato"
+    "TTT_PLAYER_VOLUME"                           "Volume del giocatore"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "POLLO-O-METRO"
     "TTT_PUNCH_HELP"                              "Muovi i tasti o salta: muovi il pollo. Accovacciati: lascia il pollo."

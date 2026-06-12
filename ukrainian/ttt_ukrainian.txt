@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Спостерігачі заглушені"
     "TTT_MUTE_ALL"                                "Всі заглушені"
     "TTT_MUTE_OFF"                                "Ніхто не заглушений"
+    "TTT_PLAYER_VOLUME"                           "Гучність гравця"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "ЧІКЕН-О-МЕТР"
     "TTT_PUNCH_HELP"                              "Рухайте клавішами або стрибайте: рухайте курку. Крауч: залишити курку."

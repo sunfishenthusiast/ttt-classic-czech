@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Заглушены: мёртвые"
     "TTT_MUTE_ALL"                                "Заглушены: все"
     "TTT_MUTE_OFF"                                "Никто не заглушён"
+    "TTT_PLAYER_VOLUME"                           "Громкость игрока"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "ЦЫПЛЕНОК-О-МЕТР"
     "TTT_PUNCH_HELP"                              "Перемещайте клавиши или прыгайте: перемещайте курицу. Крауч: оставь курицу."

@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "Åskådare nedtystade"
     "TTT_MUTE_ALL"                                "Allt avstängt"
     "TTT_MUTE_OFF"                                "Ingen nedtystad"
+    "TTT_PLAYER_VOLUME"                           "Spelarvolym"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "KYCKLING-O-METER"
     "TTT_PUNCH_HELP"                              "Flytta nycklar eller hoppa: flytta kyckling. Huka: lämna kycklingen."

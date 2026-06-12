@@ -412,6 +412,7 @@
         "TTT_MUTE_SPECS"                                    "Spectateurs mutés"
         "TTT_MUTE_ALL"                                      "Tous mutés"
         "TTT_MUTE_OFF"                                      "Aucun mutés"
+        "TTT_PLAYER_VOLUME"                                 "Volume du joueur"
         // Spectators and prop possession
         "TTT_PUNCH_TITLE"                                   "POULET-O-MÈTRE"
         "TTT_PUNCH_HELP"                                    "Déplacez les touches ou sautez : déplacez le poulet. Accroupissez-vous : laissez le poulet."

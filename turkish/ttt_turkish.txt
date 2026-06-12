@@ -412,6 +412,7 @@
     "TTT_MUTE_SPECS"                              "İzleyiciler sessize alındı"
     "TTT_MUTE_ALL"                                "Herkes sessize alındı"
     "TTT_MUTE_OFF"                                "Kimse sessize alınmadı"
+    "TTT_PLAYER_VOLUME"                           "Oyuncu Ses Seviyesi"
     // Spectators and prop possession
     "TTT_PUNCH_TITLE"                             "TAVUK-O-METRE"
     "TTT_PUNCH_HELP"                              "Anahtarları hareket ettirin veya zıplayın: tavuğu hareket ettirin. Crouch: tavuğu bırak."
