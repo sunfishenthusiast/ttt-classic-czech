@@ -5,7 +5,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Unstoppable"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Survive three consecutive rounds without dying."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Survive three consecutive rounds without dying. (Min 6 players)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Avenge Me!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Kill an enemy who recently killed a friend."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Trauma Trifecta"
@@ -201,7 +201,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Unaufhaltsam"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Überlebe drei aufeinanderfolgende Runden, ohne zu sterben."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Überlebe drei aufeinanderfolgende Runden, ohne zu sterben. (Mind. 6 Spieler)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Räche mich!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Töte einen Feind, der kürzlich einen Freund getötet hat."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Trauma-Trifecta"
@@ -396,7 +396,7 @@
     {
         "Tokens"
         {
-            "NEW_ACHIEVEMENT_1808_1_NAME"           "Imparable"
+            "NEW_ACHIEVEMENT_1808_1_NAME"           "Imparable (Min. 6 joueurs)"
             "NEW_ACHIEVEMENT_1808_1_DESC"           "Survivez à trois manches consécutives sans mourir."
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Venge-moi !"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Tuez un ennemi qui a récemment tué un ami."
@@ -592,7 +592,7 @@
     {
         "Tokens"
         {
-            "NEW_ACHIEVEMENT_1808_1_NAME"           "Inarrestabile"
+            "NEW_ACHIEVEMENT_1808_1_NAME"           "Inarrestabile (Min. 6 giocatori)"
             "NEW_ACHIEVEMENT_1808_1_DESC"           "Sopravvivi a tre round consecutivi senza morire."
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Vendicami!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Uccidi un nemico che ha recentemente ucciso un amico."
@@ -985,7 +985,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Imparable"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Sobrevive a tres rondas consecutivas sin morir."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Sobrevive a tres rondas consecutivas sin morir. (Mín. 6 jugadores)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "¡Véngame!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Mata a un enemigo que haya matado recientemente a un amigo."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Trilogía del trauma"
@@ -1181,7 +1181,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "势不可挡"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "连续存活三局且未死亡。"
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "连续存活三局且未死亡。 (最少 6 名玩家)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "替我报仇！"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "杀死一名最近杀害你队友的敌人。"
             "NEW_ACHIEVEMENT_1808_3_NAME"           "悲剧三连"
@@ -1377,7 +1377,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "势不可擋"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "連續存活三局且未死亡。"
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "連續存活三局且未死亡。 (最少 6 名玩家)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "替我報仇！"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "殺死一名最近殺害你隊友的敵人。"
             "NEW_ACHIEVEMENT_1808_3_NAME"           "悲劇三連"
@@ -1573,7 +1573,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Неудержимый"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Выжить в трех раундах подряд без смертей."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Выжить в трех раундах подряд без смертей. (Мин. 6 игроков)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Отомсти за меня!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Убить врага, который недавно убил вашего друга."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Тройная травма"
@@ -1769,7 +1769,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "アンストッパブル"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "一度も死ぬことなく、3ラウンド連続で生存する。"
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "一度も死ぬことなく、3ラウンド連続で生存する。 (最少 6 人のプレイヤー)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "仇を討て！"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "最近味方を殺した敵をキルする。"
             "NEW_ACHIEVEMENT_1808_3_NAME"           "トラウマ・トライフェクタ"
@@ -1965,7 +1965,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Niepowstrzymany"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Przetrwaj trzy kolejne rundy bez śmierci."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Przetrwaj trzy kolejne rundy bez śmierci. (Min. 6 graczy)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Pomścij mnie!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Zabij wroga, który niedawno zabił twojego przyjaciela."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Traumatyczna trylogia"
@@ -2161,7 +2161,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Ostoppbar"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Överlev tre rundor i rad utan att dö."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Överlev tre rundor i rad utan att dö. (Minst 6 spelare)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Hämnas mig!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Döda en fiende som nyligen dödat en kompis."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Traumatrifekta"
@@ -2357,7 +2357,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Nezastavitelný"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Přežijte tři kola po sobě bez smrti."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Přežijte tři kola po sobě bez smrti. (Min. 6 hráčů)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Pomsti mě!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Zabijte nepřítele, který nedávno zabil vašeho přítele."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Trojitá dávka traumatu"
@@ -2553,7 +2553,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Durdurulamaz"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Ölmeden üst üste üç raunt hayatta kal."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Ölmeden üst üste üç raunt hayatta kal. (Min. 6 oyuncu)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "İntikamımı Al!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Yakın zamanda bir arkadaşını öldüren düşmanı öldür."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Travma Üçlemesi"
@@ -2749,7 +2749,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Trem sem freios"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Sobreviva três rodadas consecutivas sem morrer."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Sobreviva três rodadas consecutivas sem morrer. (Mín. 6 jogadores)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Me vingue!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Mate um inimigo que recentemente matou um amigo."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Trilogia Traumática"
@@ -2945,7 +2945,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Нестримний"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Вижити у трьох раундах поспіль без смертей."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Вижити у трьох раундах поспіль без смертей. (Мін. 6 гравців)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Помстися за мене!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Убити ворога, який нещодавно вбив вашого друга."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Триптих травми"
@@ -3141,7 +3141,7 @@
         "Tokens"
         {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Imparable"
-            "NEW_ACHIEVEMENT_1808_1_DESC"           "Sobrevive a tres rondas consecutivas sin morir."
+            "NEW_ACHIEVEMENT_1808_1_DESC"           "Sobrevive a tres rondas consecutivas sin morir. (Mín. 6 jugadores)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "¡Véngame!"
             "NEW_ACHIEVEMENT_1808_2_DESC"           "Mata a un enemigo que haya matado recientemente a un amigo."
             "NEW_ACHIEVEMENT_1808_3_NAME"           "Trilogía del trauma"
