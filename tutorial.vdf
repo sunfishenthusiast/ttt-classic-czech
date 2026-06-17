@@ -592,4 +592,41 @@
             "TUTORIAL_06_4"         "El valor de Karma mostrado en el marcador se actualiza solo [y]después de que termina la ronda[/y]. Durante una ronda, el verdadero Karma de alguien podría ser menor."
         }
     }
+    "uwuenglish"
+    {
+        "Tokens"
+        {
+            "TUTORIAL_01_1"         "It's aww about TWAITOW vewsus INNyOCENT"
+            "TUTORIAL_01_2"         "A smaww gwoup of Twaitows is [g]wandomwy picked.[/g]"
+            "TUTORIAL_01_3"         "Togethew they have to [r]kiww aww the Innyocent.[/r]"
+            "TUTORIAL_01_4"         "[g]The Innyocent[/g] do nyot knyow [r]who is a Twaitow[/r] and [g]who is nyot.[/g]"
+            "TUTORIAL_01_5"         "[r]The Twaitows[/r] nyeed steawth and guiwe: they awe [g]outnyumbewed.[/g]"
+            "TUTORIAL_02_1"         "If you die, you wiww nyot wespawn untiw nyext wound."
+            "TUTORIAL_02_2"         "Innyocents [g]wiww nyot knyow[/g] you awe dead..."
+            "TUTORIAL_02_3"         "... untiw they find youw [g]cowpse.[/g]"
+            "TUTORIAL_02_4"         "Tewwowists"
+            "TUTORIAL_02_5"         "death"
+            "TUTORIAL_02_6"         "Missing In Action"
+            "TUTORIAL_02_7"         "found"
+            "TUTORIAL_02_8"         "Confiwmed Dead"
+            "TUTORIAL_02_9"         "Cowpses may have [g]infowmation[/g] that weads to the kiwwew."
+            "TUTORIAL_03_1"         "Twaitows can buy [r]speciaw equipment.[/r]"
+            "TUTORIAL_03_2"         "Theiw [r]Equipment Menyu[/r] can be openyed by pwessing C"
+            "TUTORIAL_03_3"         "[b]Detectives[/b] awe Innyocent pwayews who can awso buy speciaw equipment, to hewp them find Twaitows."
+            "TUTORIAL_04_1"         "As Innyocent, [g]do nyot kiww too easiwy![/g] Kiwwing othew Innyocents costs you points and Kawma. Make suwe you'we shooting a Twaitow."
+            "TUTORIAL_04_2"         "As Twaitow, [r]hide the body![/r] Innyocents get vawuabwe info fwom cowpses."
+            "TUTORIAL_04_3"         "As Twaitow, [r]communyicate and coopewate![/r] Cause distwactions, wead tawgets into twaps, and covew up kiwws of othew Twaitows."
+            "TUTORIAL_04_4"         "As Detective, [b]seawch bodies![/b] Aww Innyocents can see and use the wesuwts you find."
+            "TUTORIAL_05_1"         "You may find the fowwowing keys usefuw:"
+            "TUTORIAL_05_2"         "G wiww [g]dwop[/g] youw weapon so you can pick up anyothew."
+            "TUTORIAL_05_3"         "C wiww open the [r]Equipment Menyu[/r], if you awe Twaitow ow Detective."
+            "TUTORIAL_05_4"         "Shift sends voicechat [r]onwy to othew Twaitows.[/r]"
+            "TUTORIAL_05_5"         "F1 shows this [g]Tutowiaw.[/g]"
+            "TUTORIAL_05_6"         "[g]pings[/g] a spot in the wowwd."
+            "TUTORIAL_06_1"         "Youw [y]Kawma[/y] stawts at 1000 and goes down if you [y]damage pwayews[/y] who awe on youw own side. It goes down wess if theiw Kawma is wowew."
+            "TUTORIAL_06_2"         "If youw Kawma is wow when a wound stawts, you get a [y]penyawty to youw weapon damage[/y] that wound."
+            "TUTORIAL_06_3"         "By pwaying [y]cwean wounds[/y] whewe you don't hawm teammates, you wegain Kawma. Innyocents awso get some fow [g]huwting Twaitows.[/g]"
+            "TUTORIAL_06_4"         "The Kawma vawue shown on the scoweboawd updates onwy [y]aftew the wound ends[/y]. Duwing a wound, someonye's twue Kawma might be wowew."
+        }
+    }
 }
