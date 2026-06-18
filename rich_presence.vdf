@@ -18,10 +18,10 @@
 		"tokens"
 		{
 			"#RP_MainMenu"		"Im Hauptmenü"
-			"#RP_Preparing"		"Vorbereitung {#RP_Details}"
-			"#RP_Active"		"Laufend {#RP_Details}"
-			"#RP_Complete"		"Runde vorbei {#RP_Details}"
-			"#RP_Waiting"		"Warten {#RP_Details}"
+			"#RP_Preparing"		"Vorbereiten {#RP_Details}"
+			"#RP_Active"		"Im Spiel {#RP_Details}"
+			"#RP_Complete"		"Runde beendet {#RP_Details}"
+			"#RP_Waiting"		"Wartet {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
 			"#Status"			"{#RP_%presence%} auf {%game:map_name%} | %game:server_count%/%game:server_limit% Spieler"
 		}
@@ -30,9 +30,9 @@
 	{
 		"tokens"
 		{
-			"#RP_MainMenu"		"Au menu principal"
+			"#RP_MainMenu"		"Dans le menu principal"
 			"#RP_Preparing"		"Préparation {#RP_Details}"
-			"#RP_Active"		"En cours {#RP_Details}"
+			"#RP_Active"		"Partie en cours {#RP_Details}"
 			"#RP_Complete"		"Manche terminée {#RP_Details}"
 			"#RP_Waiting"		"En attente {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
@@ -110,7 +110,7 @@
 		{
 			"#RP_MainMenu"		"В главном меню"
 			"#RP_Preparing"		"Подготовка {#RP_Details}"
-			"#RP_Active"		"В процессе {#RP_Details}"
+			"#RP_Active"		"Игра идет {#RP_Details}"
 			"#RP_Complete"		"Раунд окончен {#RP_Details}"
 			"#RP_Waiting"		"Ожидание {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
@@ -121,13 +121,13 @@
 	{
 		"tokens"
 		{
-			"#RP_MainMenu"		"อยู่ที่เมนูหลัก"
-			"#RP_Preparing"		"กำลังเตรียมการ {#RP_Details}"
-			"#RP_Active"		"กำลังดำเนินการ {#RP_Details}"
-			"#RP_Complete"		"จบราวด์ {#RP_Details}"
+			"#RP_MainMenu"		"หน้าเมนูหลัก"
+			"#RP_Preparing"		"กำลังเตรียมตัว {#RP_Details}"
+			"#RP_Active"		"กำลังเล่น {#RP_Details}"
+			"#RP_Complete"		"จบตา {#RP_Details}"
 			"#RP_Waiting"		"กำลังรอ {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
-			"#Status"			"{#RP_%presence%} บน {%game:map_name%} | %game:server_count%/%game:server_limit% ผู้เล่น"
+			"#Status"			"{#RP_%presence%} ใน {%game:map_name%} | ผู้เล่น %game:server_count%/%game:server_limit% คน"
 		}
 	}
 	"japanese"
@@ -136,7 +136,7 @@
 		{
 			"#RP_MainMenu"		"メインメニュー"
 			"#RP_Preparing"		"準備中 {#RP_Details}"
-			"#RP_Active"		"進行中 {#RP_Details}"
+			"#RP_Active"		"プレイ中 {#RP_Details}"
 			"#RP_Complete"		"ラウンド終了 {#RP_Details}"
 			"#RP_Waiting"		"待機中 {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
@@ -148,8 +148,8 @@
 		"tokens"
 		{
 			"#RP_MainMenu"		"No Menu Principal"
-			"#RP_Preparing"		"Preparação {#RP_Details}"
-			"#RP_Active"		"Em Progresso {#RP_Details}"
+			"#RP_Preparing"		"A preparar {#RP_Details}"
+			"#RP_Active"		"Em progresso {#RP_Details}"
 			"#RP_Complete"		"Ronda Terminada {#RP_Details}"
 			"#RP_Waiting"		"A aguardar {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
@@ -176,7 +176,7 @@
 			"#RP_MainMenu"		"I hovedmenuen"
 			"#RP_Preparing"		"Forbereder {#RP_Details}"
 			"#RP_Active"		"I gang {#RP_Details}"
-			"#RP_Complete"		"Runde færdig {#RP_Details}"
+			"#RP_Complete"		"Runde slut {#RP_Details}"
 			"#RP_Waiting"		"Venter {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
 			"#Status"			"{#RP_%presence%} på {%game:map_name%} | %game:server_count%/%game:server_limit% spillere"
@@ -186,9 +186,9 @@
 	{
 		"tokens"
 		{
-			"#RP_MainMenu"		"In hoofdmenu"
+			"#RP_MainMenu"		"In het hoofdmenu"
 			"#RP_Preparing"		"Voorbereiden {#RP_Details}"
-			"#RP_Active"		"In uitvoering {#RP_Details}"
+			"#RP_Active"		"Bezig {#RP_Details}"
 			"#RP_Complete"		"Ronde voorbij {#RP_Details}"
 			"#RP_Waiting"		"Wachten {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
@@ -215,7 +215,7 @@
 			"#RP_MainMenu"		"I hovedmenyen"
 			"#RP_Preparing"		"Forbereder {#RP_Details}"
 			"#RP_Active"		"Pågår {#RP_Details}"
-			"#RP_Complete"		"Runde ferdig {#RP_Details}"
+			"#RP_Complete"		"Runde over {#RP_Details}"
 			"#RP_Waiting"		"Venter {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
 			"#Status"			"{#RP_%presence%} på {%game:map_name%} | %game:server_count%/%game:server_limit% spillere"
@@ -228,7 +228,7 @@
 			"#RP_MainMenu"		"I huvudmenyn"
 			"#RP_Preparing"		"Förbereder {#RP_Details}"
 			"#RP_Active"		"Pågår {#RP_Details}"
-			"#RP_Complete"		"Runda slut {#RP_Details}"
+			"#RP_Complete"		"Runda avslutad {#RP_Details}"
 			"#RP_Waiting"		"Väntar {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
 			"#Status"			"{#RP_%presence%} på {%game:map_name%} | %game:server_count%/%game:server_limit% spelare"
@@ -239,7 +239,7 @@
 		"tokens"
 		{
 			"#RP_MainMenu"		"A főmenüben"
-			"#RP_Preparing"		"Előkészítés {#RP_Details}"
+			"#RP_Preparing"		"Készülődés {#RP_Details}"
 			"#RP_Active"		"Folyamatban {#RP_Details}"
 			"#RP_Complete"		"Kör vége {#RP_Details}"
 			"#RP_Waiting"		"Várakozás {#RP_Details}"
@@ -266,7 +266,7 @@
 		{
 			"#RP_MainMenu"		"În meniul principal"
 			"#RP_Preparing"		"Pregătire {#RP_Details}"
-			"#RP_Active"		"În desfășurare {#RP_Details}"
+			"#RP_Active"		"În curs {#RP_Details}"
 			"#RP_Complete"		"Rundă încheiată {#RP_Details}"
 			"#RP_Waiting"		"În așteptare {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
@@ -280,7 +280,7 @@
 			"#RP_MainMenu"		"Ana Menüde"
 			"#RP_Preparing"		"Hazırlanıyor {#RP_Details}"
 			"#RP_Active"		"Devam Ediyor {#RP_Details}"
-			"#RP_Complete"		"El Sona Erdi {#RP_Details}"
+			"#RP_Complete"		"Raunt Bitti {#RP_Details}"
 			"#RP_Waiting"		"Bekleniyor {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
 			"#Status"			"{%game:map_name%} haritasında {#RP_%presence%} | %game:server_count%/%game:server_limit% oyuncu"
@@ -292,7 +292,7 @@
 		{
 			"#RP_MainMenu"		"في القائمة الرئيسية"
 			"#RP_Preparing"		"جارٍ التحضير {#RP_Details}"
-			"#RP_Active"		"قيد التشغيل {#RP_Details}"
+			"#RP_Active"		"جولة جارية {#RP_Details}"
 			"#RP_Complete"		"انتهت الجولة {#RP_Details}"
 			"#RP_Waiting"		"في الانتظار {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
@@ -344,7 +344,7 @@
 		{
 			"#RP_MainMenu"		"У головному меню"
 			"#RP_Preparing"		"Підготовка {#RP_Details}"
-			"#RP_Active"		"У процесі {#RP_Details}"
+			"#RP_Active"		"Гра триває {#RP_Details}"
 			"#RP_Complete"		"Раунд завершено {#RP_Details}"
 			"#RP_Waiting"		"Очікування {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
@@ -357,7 +357,7 @@
 		{
 			"#RP_MainMenu"		"En el menú principal"
 			"#RP_Preparing"		"Preparando {#RP_Details}"
-			"#RP_Active"		"En progreso {#RP_Details}"
+			"#RP_Active"		"En curso {#RP_Details}"
 			"#RP_Complete"		"Ronda terminada {#RP_Details}"
 			"#RP_Waiting"		"Esperando {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
@@ -368,10 +368,10 @@
 	{
 		"tokens"
 		{
-			"#RP_MainMenu"		"Ở Menu Chính"
+			"#RP_MainMenu"		"Tại Menu Chính"
 			"#RP_Preparing"		"Đang chuẩn bị {#RP_Details}"
 			"#RP_Active"		"Đang diễn ra {#RP_Details}"
-			"#RP_Complete"		"Vòng kết thúc {#RP_Details}"
+			"#RP_Complete"		"Kết thúc Vòng {#RP_Details}"
 			"#RP_Waiting"		"Đang chờ {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
 			"#Status"			"{#RP_%presence%} trên {%game:map_name%} | %game:server_count%/%game:server_limit% người chơi"
@@ -382,7 +382,7 @@
 		"tokens"
 		{
 			"#RP_MainMenu"		"Di Menu Utama"
-			"#RP_Preparing"		"Mempersiapkan {#RP_Details}"
+			"#RP_Preparing"		"Persiapan {#RP_Details}"
 			"#RP_Active"		"Sedang Berlangsung {#RP_Details}"
 			"#RP_Complete"		"Ronde Selesai {#RP_Details}"
 			"#RP_Waiting"		"Menunggu {#RP_Details}"
